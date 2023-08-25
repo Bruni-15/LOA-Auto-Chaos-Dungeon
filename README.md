@@ -1,4 +1,4 @@
-# Endless-Chaos
+# Auto Chaos Dungeon
 
 A Lost Ark chaos dungeon(PvE) farming bot.\
 Fully automatic mob/elite/boss detecting and clearing, based on image recognition.\
