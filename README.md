@@ -63,7 +63,7 @@ lots of things can be customized for your best experience.
 ### 3. Start running script:
 
 ```
-git clone https://github.com/any-other-guy/Endless-Chaos.git
+git clone https://github.com/Bruni-15/LOA-Auto-Chaos-Dungeon/Endless-Chaos.git
 cd Endless-Chaos
 pip install -r requirements.txt
 python3 .\bot.py
